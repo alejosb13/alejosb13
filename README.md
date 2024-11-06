@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alejandro Sanchez
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador **Full Stack** con un enfoque especial en el backend, aunque disfruto de todas las etapas del desarrollo de software. A lo largo de mi carrera, he adquirido experiencia en diversos lenguajes, frameworks y arquitecturas para construir aplicaciones sólidas y escalables.
+Soy un desarrollador **Full Stack** con un enfoque especial en el backend, aunque disfruto de todas las etapas del desarrollo de software. A lo largo de mi carrera, he adquirido experiencia en diversos lenguajes, frameworks y arquitecturas para construir aplicaciones sólidas y escalables.
 
 ## 🚀 Sobre Mí
 
