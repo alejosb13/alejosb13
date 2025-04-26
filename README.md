@@ -22,7 +22,7 @@ Para lograrlo, aplico mi experiencia en desarrollo backend y frontend, utilizand
 ## 📫 Contáctame
 
 - **Correo:** [alejosb13@gmail.com](mailto:alejosb13@gmail.com)
-- **LinkedIn:** [Alejo Sanchez](https://www.linkedin.com/in/alejo-sanchez/)
+
 
 ---
 
