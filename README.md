@@ -1,6 +1,7 @@
 # 👋 Hola, soy Alejandro Sanchez
 
-Soy un desarrollador **Full Stack** con un enfoque especial en el backend, aunque disfruto de todas las etapas del desarrollo de software. A lo largo de mi carrera, he adquirido experiencia en diversos lenguajes, frameworks y arquitecturas para construir aplicaciones sólidas y escalables.
+Soy desarrollador **Full Stack** y ayudo a transformar ideas en aplicaciones web sólidas, escalables y fáciles de usar, diseñadas para que empresas y emprendedores optimicen sus procesos, mejoren su presencia online y ofrezcan mejores experiencias a sus usuarios.
+Para lograrlo, aplico mi experiencia en desarrollo backend y frontend, utilizando diversos lenguajes, frameworks y arquitecturas modernas que garantizan calidad y eficiencia en cada proyecto.
 
 ## 🚀 Sobre Mí
 
