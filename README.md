@@ -15,19 +15,19 @@ Soy desarrollador Full Stack y ayudo a transformar ideas en aplicaciones web só
 
 ## 💼 Experiencia Profesional
 
-🎯 **Backend**: Desarrollo robusto en PHP y JavaScript, utilizando frameworks como **Laravel** y **CodeIgniter** para crear soluciones seguras, escalables y mantenibles.
+* 🎯 **Backend**: Desarrollo robusto en PHP y JavaScript, utilizando frameworks como **Laravel** y **CodeIgniter** para crear soluciones seguras, escalables y mantenibles.
 
-🔄 **Microservicios**: Implementación de arquitecturas basadas en microservicios para mejorar la escalabilidad y la eficiencia de aplicaciones empresariales.
+* 🔄 **Microservicios**: Implementación de arquitecturas basadas en microservicios para mejorar la escalabilidad y la eficiencia de aplicaciones empresariales.
 
-☁️ **Amazon Web Services (AWS)**: Uso de servicios como **S3**, **Lambda**, **DynamoDB** y **CloudFormation** para el despliegue y administración de infraestructura en la nube.
+* ☁️ **Amazon Web Services (AWS)**: Uso de servicios como **S3**, **Lambda**, **DynamoDB** y **CloudFormation** para el despliegue y administración de infraestructura en la nube.
 
-📦 **Node.js y Express**: Construcción de APIs RESTful y servicios backend con Node.js, priorizando el rendimiento y la facilidad de mantenimiento.
+* 📦 **Node.js y Express**: Construcción de APIs RESTful y servicios backend con Node.js, priorizando el rendimiento y la facilidad de mantenimiento.
 
-🌐 **Frontend**: Desarrollo de interfaces modernas con **Angular**, enfocándome en la experiencia del usuario, el rendimiento y la mantenibilidad del código.
+* 🌐 **Frontend**: Desarrollo de interfaces modernas con **Angular**, enfocándome en la experiencia del usuario, el rendimiento y la mantenibilidad del código.
 
-🧪 **Testing y Calidad**: Aplicación de buenas prácticas de testing con herramientas como **Mocha**, **Chai** y **Postman** para garantizar estabilidad y confiabilidad.
+* 🧪 **Testing y Calidad**: Aplicación de buenas prácticas de testing con herramientas como **Mocha**, **Chai** y **Postman** para garantizar estabilidad y confiabilidad.
 
-🔗 **Integraciones**: Conexión de aplicaciones con servicios externos como **Twilio**, **MercadoPago**, **S3** y sistemas internos mediante APIs REST.
+* 🔗 **Integraciones**: Conexión de aplicaciones con servicios externos como **Twilio**, **MercadoPago**, **S3** y sistemas internos mediante APIs REST.
 
 ## 🔧 Skills
 
