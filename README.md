@@ -77,38 +77,29 @@ Soy desarrollador Full Stack y ayudo a transformar ideas en aplicaciones web só
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" title="Laravel"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  </a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/>
-  </a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/>
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+  </a><a href="https://www.linux.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/>
   </a>
 </p>
+
 
 ## 📫 Contáctame
 <p align="left">
